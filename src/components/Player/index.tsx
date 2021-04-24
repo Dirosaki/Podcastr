@@ -63,6 +63,7 @@ export function Player() {
       playNext();
     } else {
       clearPlayerState();
+      setProgress(0);
     }
   }
 
