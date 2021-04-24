@@ -15,9 +15,6 @@
     <a href="https://github.com/Dirosaki/Podcastr/blob/main/LICENSE">
         <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=04d361&labelColor=8257e5">
     </a>
-    <a href="https://picpay.me/Matheus_nyctibius_vii">
-        <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=8257e5&labelColor=04d361">
-    </a>
 </p>
 <p align="center">
     <a href="#podcastr-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -39,8 +36,6 @@ Projeto desenvolvido para escutar seus podcasts. Projeto realizado na NLW#5 @Roc
 * Visualizar sobre o que se trata o podcast.
 * Gerenciar podcasts.
 
-<br/>
-
 ## Features
 ```
 ✔ - Documentar o projeto
@@ -49,7 +44,6 @@ Projeto desenvolvido para escutar seus podcasts. Projeto realizado na NLW#5 @Roc
 ✖ - Next PWA
 ✖ - Electron
 ```
-<br/>
 
 ## Tecnologias 🚀
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -58,8 +52,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript | ^4.2.4](https://www.typescriptlang.org/)
 - [ReactJS | ^17.0.2](https://pt-br.reactjs.org/)
 - [NextJS | ^10.1.3](https://nextjs.org/)
-
-<br/>
 
 ## Layout 🚧
 ### Desktop Screenshot
@@ -87,8 +79,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       podcast-information
       ------------------------------
     -->
-
-<br/>
 
 ## Rodando o projeto na sua maquina 🚴🏻‍♂️
 <details>
